@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Vasu007-tech/leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
 ## Linked List
 |  |
 | ------- |
@@ -20,12 +21,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Vasu007-tech/leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sliding Window
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Vasu007-tech/leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Vasu007-tech/leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
+## Math
+|  |
+| ------- |
+| [1248-count-number-of-nice-subarrays](https://github.com/Vasu007-tech/leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
