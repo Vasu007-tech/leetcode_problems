@@ -59,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0231-power-of-two) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
