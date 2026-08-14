@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0001-two-sum) |
+| [0078-subsets](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0136-single-number) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vasu007-tech/leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Vasu007-tech/leetcode_problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
