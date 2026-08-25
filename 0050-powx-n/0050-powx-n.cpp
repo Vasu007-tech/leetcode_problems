@@ -1,26 +1,19 @@
 class Solution {
 public:
+    double pow(double x,long long n){
+        if(n==0) return 1;
+       double half=  pow( x , n/2);
+        double result=half*half;
+        if(n%2==1){
+            result = result*x;
+        }
+        return result;
+    }
     double myPow(double x, int n) {
-
-        long long N = n;
-
-        if (N < 0) {
-            x = 1 / x;
-            N = -N;
+        long long N=n;
+          if (N < 0) {
+            return 1 / pow(x, -N);
         }
-
-        double ans = 1;
-
-        while (N > 0) {
-
-            if (N & 1) {
-                ans = ans * x;
-            }
-
-            x = x * x;
-            N = N >> 1;
-        }
-
-        return ans;
+        return pow(x,n);
     }
 };
