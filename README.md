@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0231-power-of-two) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vasu007-tech/leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/Vasu007-tech/leetcode_problems/tree/master/1922-count-good-numbers) |
@@ -105,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0023-merge-k-sorted-lists) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
