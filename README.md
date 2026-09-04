@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0216-combination-sum-iii) |
+| [0416-partition-equal-subset-sum](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0416-partition-equal-subset-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vasu007-tech/leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Vasu007-tech/leetcode_problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0416-partition-equal-subset-sum) |
 ## Memoization
 |  |
 | ------- |
@@ -135,4 +137,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0064-minimum-path-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
