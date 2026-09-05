@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0216-combination-sum-iii) |
+| [0322-coin-change](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0455-assign-cookies) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0930-binary-subarrays-with-sum) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0416-partition-equal-subset-sum) |
 ## Memoization
 |  |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0416-partition-equal-subset-sum) |
 ## 0-1 Knapsack
 |  |
@@ -159,4 +162,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0455-assign-cookies) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
