@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0008-string-to-integer-atoi) |
+| [0516-longest-palindromic-subsequence](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0516-longest-palindromic-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vasu007-tech/leetcode_problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Bit Manipulation
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0516-longest-palindromic-subsequence) |
 ## Memoization
 |  |
 | ------- |
