@@ -20,12 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
 | [0455-assign-cookies](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0455-assign-cookies) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0040-combination-sum-ii) |
 | [0063-unique-paths-ii](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0063-unique-paths-ii) |
