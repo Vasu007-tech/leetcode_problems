@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
 | [0455-assign-cookies](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0455-assign-cookies) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Vasu007-tech/leetcode_problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Array
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vasu007-tech/leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Vasu007-tech/leetcode_problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Vasu007-tech/leetcode_problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sliding Window
 |  |
 | ------- |
@@ -195,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/Vasu007-tech/leetcode_problems/tree/master/1092-shortest-common-supersequence) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Vasu007-tech/leetcode_problems/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
