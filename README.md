@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0142-linked-list-cycle-ii](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0169-majority-element) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vasu007-tech/leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vasu007-tech/leetcode_problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0216-combination-sum-iii) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0455-assign-cookies) |
 ## Quicksort
 |  |
@@ -206,4 +210,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vasu007-tech/leetcode_problems/tree/master/2149-rearrange-array-elements-by-sign) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
