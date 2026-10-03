@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0930-binary-subarrays-with-sum) |
+| [1048-longest-string-chain](https://github.com/Vasu007-tech/leetcode_problems/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vasu007-tech/leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vasu007-tech/leetcode_problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Linked List
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0031-next-permutation) |
 | [0142-linked-list-cycle-ii](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
 | [0455-assign-cookies](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0455-assign-cookies) |
+| [1048-longest-string-chain](https://github.com/Vasu007-tech/leetcode_problems/tree/master/1048-longest-string-chain) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vasu007-tech/leetcode_problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Array
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0494-target-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0930-binary-subarrays-with-sum) |
+| [1048-longest-string-chain](https://github.com/Vasu007-tech/leetcode_problems/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vasu007-tech/leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Vasu007-tech/leetcode_problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vasu007-tech/leetcode_problems/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0072-edit-distance) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0583-delete-operation-for-two-strings) |
+| [1048-longest-string-chain](https://github.com/Vasu007-tech/leetcode_problems/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Vasu007-tech/leetcode_problems/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Vasu007-tech/leetcode_problems/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vasu007-tech/leetcode_problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -177,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1048-longest-string-chain](https://github.com/Vasu007-tech/leetcode_problems/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Vasu007-tech/leetcode_problems/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Vasu007-tech/leetcode_problems/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vasu007-tech/leetcode_problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -218,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0455-assign-cookies) |
+| [1048-longest-string-chain](https://github.com/Vasu007-tech/leetcode_problems/tree/master/1048-longest-string-chain) |
 ## Quicksort
 |  |
 | ------- |
