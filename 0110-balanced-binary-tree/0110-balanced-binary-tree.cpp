@@ -31,6 +31,7 @@ public:
     }
 
     bool isBalanced(TreeNode* root) {
-        return func(root) != -1;
+         if(func(root)==-1)return false ;
+         else return true;
     }
 };
