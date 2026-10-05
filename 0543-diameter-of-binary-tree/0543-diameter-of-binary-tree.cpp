@@ -11,16 +11,32 @@
  */
 class Solution {
 public:
-    int func(TreeNode* root,int &maxi){
-        if(root == NULL) return 0;
-        int right = func(root->right,maxi);
-        int left = func(root->left,maxi);
-        maxi = max(right+left,maxi);
-        return 1+max(right,left);
-    }
+
+    int findHeight(TreeNode* node) {
+    if (node == NULL)
+        return 0;
+
+    int left = findHeight(node->left);
+    int right = findHeight(node->right);
+
+    return 1 + max(left, right);
+}
+    void findMax(TreeNode* node,int &maxi)
+{
+    if (node == NULL)
+        return;
+
+    int lh = findHeight(node->left);
+    int rh = findHeight(node->right);
+
+    maxi = max(maxi, lh + rh);
+
+    findMax(node->left,maxi);
+    findMax(node->right,maxi);
+}
     int diameterOfBinaryTree(TreeNode* root) {
         int maxi=0;
-        func(root,maxi);
+        findMax(root,maxi);
         return maxi;
     }
 };
