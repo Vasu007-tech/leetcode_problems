@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Vasu007-tech/leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Vasu007-tech/leetcode_problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vasu007-tech/leetcode_problems/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Vasu007-tech/leetcode_problems/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sliding Window
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0023-merge-k-sorted-lists) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Vasu007-tech/leetcode_problems/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Merge Sort
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Vasu007-tech/leetcode_problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Vasu007-tech/leetcode_problems/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sorting
 |  |
 | ------- |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/Vasu007-tech/leetcode_problems/tree/master/1048-longest-string-chain) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Vasu007-tech/leetcode_problems/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Quicksort
 |  |
 | ------- |
@@ -272,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Vasu007-tech/leetcode_problems/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
