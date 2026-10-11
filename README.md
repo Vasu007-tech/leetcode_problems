@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Vasu007-tech/leetcode_problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vasu007-tech/leetcode_problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Vasu007-tech/leetcode_problems/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Vasu007-tech/leetcode_problems/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -371,4 +372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0700-search-in-a-binary-search-tree) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Vasu007-tech/leetcode_problems/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
