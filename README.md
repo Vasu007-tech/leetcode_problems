@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Vasu007-tech/leetcode_problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Vasu007-tech/leetcode_problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Vasu007-tech/leetcode_problems/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Vasu007-tech/leetcode_problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Vasu007-tech/leetcode_problems/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Sliding Window
 |  |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Vasu007-tech/leetcode_problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Vasu007-tech/leetcode_problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Vasu007-tech/leetcode_problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Vasu007-tech/leetcode_problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Recursion
 |  |
 | ------- |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/Vasu007-tech/leetcode_problems/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Vasu007-tech/leetcode_problems/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vasu007-tech/leetcode_problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Vasu007-tech/leetcode_problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Memoization
 |  |
 | ------- |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [1254-number-of-closed-islands](https://github.com/Vasu007-tech/leetcode_problems/tree/master/1254-number-of-closed-islands) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Vasu007-tech/leetcode_problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Knapsack Problem
 |  |
 | ------- |
