@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vasu007-tech/leetcode_problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vasu007-tech/leetcode_problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Vasu007-tech/leetcode_problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Vasu007-tech/leetcode_problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0023-merge-k-sorted-lists) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Vasu007-tech/leetcode_problems/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Vasu007-tech/leetcode_problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Merge Sort
 |  |
 | ------- |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0802-find-eventual-safe-states) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Vasu007-tech/leetcode_problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Topological Sort
 |  |
 | ------- |
@@ -430,4 +433,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Vasu007-tech/leetcode_problems/tree/master/1254-number-of-closed-islands) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Vasu007-tech/leetcode_problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
