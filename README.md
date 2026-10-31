@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Vasu007-tech/leetcode_problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Vasu007-tech/leetcode_problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Vasu007-tech/leetcode_problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/Vasu007-tech/leetcode_problems/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Vasu007-tech/leetcode_problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Vasu007-tech/leetcode_problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Vasu007-tech/leetcode_problems/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/Vasu007-tech/leetcode_problems/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Vasu007-tech/leetcode_problems/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vasu007-tech/leetcode_problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [3665-twisted-mirror-path-count](https://github.com/Vasu007-tech/leetcode_problems/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Vasu007-tech/leetcode_problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Memoization
 |  |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Vasu007-tech/leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [1254-number-of-closed-islands](https://github.com/Vasu007-tech/leetcode_problems/tree/master/1254-number-of-closed-islands) |
+| [3665-twisted-mirror-path-count](https://github.com/Vasu007-tech/leetcode_problems/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Vasu007-tech/leetcode_problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Knapsack Problem
 |  |
